@@ -1,6 +1,20 @@
 # Ultimate-Tic-Tac-Toe
 An inception version of tic tac toe for terminal 
 
+```
+ . . . | . . . | . . .
+ . . . | . . . | . . .
+ . . . | . . . | . . .
+-------+-------+-------		 . | . | .
+ . . . | . . . | . . .	 	---+---+---
+ . . . | . . . | . . .	 	 . | . | .
+ . . . | . . . | . . .	 	---+---+---
+-------+-------+-------		 . | . | .
+ . . . | . . . | . . .
+ . . . | . . . | . . .
+ . . . | . . . | . . .
+```
+
 This is a version of tic-tac-toe that has a game of tic-tac-toe in each square. 
 
 ## Quick rules
